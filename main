@@ -5,6 +5,7 @@ int main() {
     printf("Pozdrav");
     printf("AAA");
 printf("hello");
+printf("Ivane");
 
     return 1;
 }
